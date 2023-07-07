@@ -12,3 +12,5 @@ ubuntu@linux-lab:/labs/linux-lab/test/test_instrument-functions$ ./a.out
 <- /* end of bar at trace.c:95
 
 <- /* end of main at trace.c:100
+
+change `foo()` and `bar()` by yourself
